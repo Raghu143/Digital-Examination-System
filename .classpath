@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="image"/>
+	<classpathentry kind="src" path="resource"/>
+	<classpathentry kind="lib" path="resource/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="resource/mysql-connector-java-5.1.45-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RAGHUVANSH/Desktop/mail/javamail-1.4.5/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RAGHUVANSH/Desktop/mail/javamail-1.4.5/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RAGHUVANSH/Desktop/mail/javamail-1.4.5/lib/imap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RAGHUVANSH/Desktop/mail/javamail-1.4.5/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RAGHUVANSH/Desktop/mail/javamail-1.4.5/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RAGHUVANSH/Desktop/mail/javamail-1.4.5/lib/smtp.jar"/>
+	<classpathentry kind="lib" path="image/freetts.jar"/>
+	<classpathentry kind="lib" path="image/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="image/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="image/cmudict04.jar"/>
+	<classpathentry kind="lib" path="image/cmulex.jar"/>
+	<classpathentry kind="lib" path="image/cmutimelex.jar"/>
+	<classpathentry kind="lib" path="image/en_us.jar"/>
+	<classpathentry kind="lib" path="image/freetts-jsapi10.jar"/>
+	<classpathentry kind="lib" path="image/jsapi.jar"/>
+	<classpathentry kind="lib" path="image/mbrola.jar"/>
+	<classpathentry kind="lib" path="/TestProject/resource/commons-net-3.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
